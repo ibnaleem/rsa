@@ -1,2 +1,2 @@
-# rsa
-The Python implementation of the RSA algorithm.
+# RSA
+The Python implementation of the **R**ivest-**S**hamir-**A**dleman algorithm.
